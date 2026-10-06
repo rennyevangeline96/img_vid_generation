@@ -1,0 +1,158 @@
+{
+  "image_prompts": {
+    "prompt_1_traditional_heritage_interior": {
+      "subject": "Traditional Tamil family life and Chettinad cultural heritage inside a Kanadu Kathan house, featuring antique wooden furniture, Athangudi tiles, brass vessels, traditional kolam, Tamil decorative elements, and people wearing authentic Tamil traditional clothing",
+      "setting": {
+        "place": "Interior courtyard and reception hall of a traditional Chettinad Kanadu Kathan house in Karaikudi, Tamil Nadu",
+        "era": "Late 19th to early 20th century Chettinad heritage",
+        "time_of_day": "Morning"
+      },
+      "lighting": "Soft natural sunlight entering through the open courtyard and wooden windows, creating warm highlights and gentle shadows",
+      "camera": {
+        "shot": "Wide establishing shot",
+        "lens": "24mm wide-angle lens",
+        "angle": "Eye-level perspective facing the central courtyard"
+      },
+      "palette": [
+        "terracotta red",
+        "earthy brown",
+        "muted mustard",
+        "deep green",
+        "antique brass"
+      ],
+      "style": "Photorealistic architectural photography with authentic Tamil heritage details, rich textures, cinematic warmth, historically grounded Chettinad aesthetic",
+      "aspect_ratio": "16:9",
+      "avoid": [
+        "modern furniture",
+        "modern electrical fixtures",
+        "Western-style interiors",
+        "generic Indian palace architecture",
+        "incorrect Tamil cultural clothing",
+        "excessive decoration",
+        "text or watermarks"
+      ]
+    },
+
+    "prompt_2_festive_tamil_cultural_interior": {
+      "subject": "A vibrant Tamil cultural celebration inside a Chettinad Kanadu Kathan house, with women in traditional Kanchipuram silk sarees, men in veshti and angavastram, a detailed kolam, brass kuthuvilakku lamps, banana leaves, traditional vessels, and Chettinad furnishings",
+      "setting": {
+        "place": "Grand central courtyard surrounded by pillared halls in a traditional Chettinad Kanadu Kathan house in Karaikudi, Tamil Nadu",
+        "era": "Early 20th century Chettinad heritage",
+        "time_of_day": "Late afternoon during a Tamil festival"
+      },
+      "lighting": "Warm golden-hour sunlight combined with the soft glow of traditional brass oil lamps, creating an inviting festive atmosphere",
+      "camera": {
+        "shot": "Medium-wide cinematic shot",
+        "lens": "35mm lens",
+        "angle": "Slightly elevated angle looking diagonally across the courtyard"
+      },
+      "palette": [
+        "deep maroon",
+        "gold",
+        "turmeric yellow",
+        "dark teak brown",
+        "cream"
+      ],
+      "style": "Cinematic photorealism, luxurious but historically authentic Chettinad architecture, detailed Tamil cultural storytelling, rich textile and brass textures",
+      "aspect_ratio": "16:9",
+      "avoid": [
+        "modern architecture",
+        "LED strip lighting",
+        "plastic decorations",
+        "contemporary clothing",
+        "North Indian palace motifs",
+        "generic festival imagery",
+        "text or watermarks"
+      ]
+    },
+
+    "prompt_3_rainy_season_chettinad_heritage": {
+      "subject": "Traditional Tamil household life inside a Chettinad Kanadu Kathan house during the monsoon, featuring an elderly Tamil woman in a traditional cotton saree arranging brass vessels, a fresh kolam near the entrance, antique teak pillars, Athangudi tiles, woven baskets, traditional wooden furniture, and subtle signs of rain-soaked daily life",
+      "setting": {
+        "place": "Semi-open inner courtyard and surrounding corridors of a traditional Chettinad Kanadu Kathan house in Karaikudi, Tamil Nadu",
+        "era": "Late 19th to early 20th century Chettinad heritage",
+        "time_of_day": "Rainy early evening during the monsoon"
+      },
+      "lighting": "Soft diffused grey daylight filtering through the rainy courtyard, mixed with the warm glow of brass oil lamps inside, subtle reflections from wet Athangudi tiles, and gentle shadows beneath the wooden roof",
+      "camera": {
+        "shot": "Wide atmospheric interior shot",
+        "lens": "28mm wide-angle lens",
+        "angle": "Eye-level perspective looking from the shaded corridor toward the rain-filled central courtyard"
+      },
+      "palette": [
+        "wet terracotta red",
+        "dark teak brown",
+        "rainy grey",
+        "muted green",
+        "warm antique brass"
+      ],
+      "style": "Photorealistic cinematic Tamil heritage photography, atmospheric monsoon mood, authentic Chettinad architecture, natural aged textures, wet surfaces, realistic rain ambience, warm traditional interior contrasted with cool rainy surroundings",
+      "aspect_ratio": "16:9",
+      "avoid": [
+        "modern furniture",
+        "modern electrical fixtures",
+        "contemporary clothing",
+        "luxury hotel appearance",
+        "North Indian architectural motifs",
+        "excessive artificial lighting",
+        "heavy dramatic storm effects",
+        "oversaturated colors",
+        "text or watermarks"
+      ]
+    }
+  },
+
+  "video_prompt": {
+    "subject": "Traditional Tamil family life and Chettinad cultural heritage inside a Kanadu Kathan house, featuring antique wooden furniture, Athangudi tiles, brass vessels, traditional kolam, Tamil decorative elements, and people wearing authentic Tamil traditional clothing",
+
+    "setting": {
+      "place": "Interior courtyard and reception hall of a traditional Chettinad Kanadu Kathan house in Karaikudi, Tamil Nadu",
+      "era": "Late 19th to early 20th century Chettinad heritage",
+      "time_of_day": "Morning"
+    },
+
+    "lighting": "Soft natural sunlight entering through the open courtyard and wooden windows, creating warm highlights and gentle moving shadows across the Athangudi tiles and wooden pillars",
+
+    "camera": {
+      "shot": "Wide establishing shot",
+      "lens": "24mm wide-angle lens",
+      "angle": "Eye-level perspective facing the central courtyard"
+    },
+
+    "motion": {
+      "subject_motion": "People move naturally and slowly through the courtyard, gently arranging brass vessels and traditional household objects; sarees and veshtis respond subtly to natural air movement",
+      "environment_motion": "Soft breeze moves the edges of sarees, hanging curtains, and small decorative elements; sunlight and shadows shift gently across the courtyard; brass vessels catch subtle changing reflections",
+      "camera_move": "Slow cinematic forward dolly from the shaded reception hall toward the central courtyard, maintaining a smooth and stable eye-level perspective",
+      "motion_speed": "Slow and graceful",
+      "duration": "8-10 seconds",
+      "motion_style": "Natural, realistic, subtle, continuous movement with no sudden transitions or exaggerated motion"
+    },
+
+    "palette": [
+      "terracotta red",
+      "earthy brown",
+      "muted mustard",
+      "deep green",
+      "antique brass"
+    ],
+
+    "style": "Photorealistic cinematic heritage video, authentic Tamil Chettinad architecture, historically grounded details, natural human movement, rich textures, warm documentary atmosphere",
+
+    "aspect_ratio": "16:9",
+
+    "avoid": [
+      "modern furniture",
+      "modern electrical fixtures",
+      "Western-style interiors",
+      "generic Indian palace architecture",
+      "incorrect Tamil cultural clothing",
+      "unnatural human movement",
+      "fast camera movement",
+      "camera shake",
+      "warping or morphing objects",
+      "floating objects",
+      "excessive wind",
+      "text or watermarks"
+    ]
+  }
+}
